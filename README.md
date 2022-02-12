@@ -1,4 +1,10 @@
-### Hi there 👋
+### Neress
+
+<p align="center">
+  <a href="https://github.com/madebypixel02">
+    <img src="https://github-readme-stats.vercel.app/api?username=madebypixel02&count_private=true&show_icons=true&theme=blueberry">
+  </a>
+</p>
 
 <!--
 **Neress-dono/Neress-dono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
