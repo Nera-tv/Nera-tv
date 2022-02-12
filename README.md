@@ -1,16 +1,17 @@
-## Neress
+# Neress
 
 <p align="center">
   <a href="https://static.zerochan.net/Miyamura.Izumi.full.3371268.jpg">
-    <img src="https://github.com/Neress-dono/pictures.git/Miyamura.Izumi.full.3371268.png">
+    <img src="https://github.com/Neress-dono/pictures/blob/cff49dd079dd515db3a8cc7d370258ec0c40e275/Miyamura.Izumi.full.3371268.png">
   </a>
+  <br>profile picture
 </p>
 
-## Hi There 👋
+## My Training
 
-* Studying: Data Science & Engineering (Uc3m)
-* Also studying as student in 42 Madrid Fundación Telefónica
-* Linux & Chrome OS Enthusiast (I use Arch BTW)
+* ex-student in BTS (higher technician certificate) in digital science, IT and networks option
+* studying as student in **42 Lyon Auvergne-Rhône-Alpes**
+
 <!--
 **Neress-dono/Neress-dono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
