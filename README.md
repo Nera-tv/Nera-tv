@@ -1,8 +1,8 @@
 ### Neress
 
 <p align="center">
-  <a href="https://github.com/madebypixel02">
-    <img src="https://github-readme-stats.vercel.app/api?username=madebypixel02&count_private=true&show_icons=true&theme=blueberry">
+  <a href="https://static.zerochan.net/Miyamura.Izumi.full.3371268.jpg">
+    <img src="https://static.zerochan.net/Miyamura.Izumi.full.3371268.jpg">
   </a>
 </p>
 
