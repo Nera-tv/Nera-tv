@@ -1,9 +1,7 @@
 # Neress
 
 <p align="center">
-  <a href="https://static.zerochan.net/Miyamura.Izumi.full.3371268.jpg">
-    <img src="https://github.com/Neress-dono/pictures/blob/cff49dd079dd515db3a8cc7d370258ec0c40e275/Miyamura.Izumi.full.3371268.png">
-  </a>
+  <img src="https://github.com/Neress-dono/pictures/blob/cff49dd079dd515db3a8cc7d370258ec0c40e275/Miyamura.Izumi.full.3371268.png">
   <br>profile picture
 </p>
 
