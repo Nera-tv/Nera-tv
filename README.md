@@ -7,8 +7,9 @@
 --->
 ## My Training
 
-* ex-student in BTS (higher technician certificate) in digital science, IT and networks option
 * studying as student in **42 Lyon Auvergne-Rhône-Alpes**
+* ex-student in BTS (higher technician certificate) in digital science, IT and networks option
+
 
 <!--
 **Neress-dono/Neress-dono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
