@@ -1,13 +1,12 @@
 # Neress
 <!---
 <p align="center">
-  <img src="https://github.com/Neress-dono/pictures/blob/cff49dd079dd515db3a8cc7d370258ec0c40e275/Miyamura.Izumi.full.3371268.png">
-  <br>profile picture
+	<img src="https://github.com/Neress-dono/pictures/blob/cff49dd079dd515db3a8cc7d370258ec0c40e275/Miyamura.Izumi.full.3371268.png">
+	<br>profile picture
 </p>
 --->
 ## My Training
 
-<br>
 * studying as student in **42 Lyon Auvergne-Rhône-Alpes**
 * ex-student in BTS (higher technician certificate) in digital science, IT and networks option
 
