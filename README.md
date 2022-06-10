@@ -10,8 +10,9 @@
 * studying as student in **42 Lyon Auvergne-Rhône-Alpes**
 * ex-student in BTS (higher technician certificate) in digital science, IT and networks option
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nera-tv&show_icons=true&theme=radical&hide=prs,issues,contribs)
 <!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nera-tv&show_icons=true&theme=radical&hide=prs,issues,contribs)
+
 **Neress-dono/Neress-dono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
