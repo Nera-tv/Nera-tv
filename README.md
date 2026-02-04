@@ -7,7 +7,7 @@
 --->
 ## My Training
 
-* studying as student in **42 Lyon Auvergne-Rhône-Alpes**
+* ex-student in **42 Lyon Auvergne-Rhône-Alpes**
 * ex-student in BTS (higher technician certificate) in digital science, IT and networks option
 
 <!--
